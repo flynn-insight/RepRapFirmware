@@ -39,6 +39,8 @@ enum class KinematicsType : uint8_t
 	collinearTriperon,	// reserved for @oliof, see https://forum.duet3d.com/topic/11646/kinematics-type-number-allocation-for-colinear-tripteron
 	robot5axis,			// reserved for @joergS5, see https://forum.duet3d.com/post/172204
 	sixAxisDelta,		// reserved for @tkln, see https://forum.duet3d.com/post/314950
+	ZC = 99,			// !!!!!!needs to be reserved!!!!!!!!!!!!!!
+
 
 	unknown				// this one must be last!
 };
