@@ -12,6 +12,7 @@
 #include "GCodeException.h"
 #include "GCodeQueue.h"
 #include "Heating/Heat.h"
+#include "Movement/Move.h"
 
 #if HAS_SBC_INTERFACE
 # include <SBC/SbcInterface.h>
