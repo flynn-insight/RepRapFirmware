@@ -985,3 +985,5 @@ inline void Move::InvertCurrentMotorSteps(size_t driver) noexcept
 #endif
 
 #endif /* MOVE_H_ */
+
+#endif /* MOVE_H_ */
